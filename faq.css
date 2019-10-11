@@ -69,12 +69,7 @@ body,html{
     line-height: 17px;
     font-weight: lighter;
 }
-.bottom-wrapper li{
-    display: inline-block;
-    font-size: 15px;
-    padding-left: 5px;
-    padding-right: 5px;
-}
+
 
 @media (max-width: 359px){
     .top-wrapper h2{
