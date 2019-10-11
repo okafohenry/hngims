@@ -10,6 +10,8 @@
     color:rgb(38, 103, 243);
     height:500px;
   } */
+
+  
   .second, .third{
     display: flex;
     background-size: 100% 100%;
@@ -74,9 +76,13 @@
   {
     padding: 30px;
   }
-
+.first img{
+  width: 1000px;
+  /* padding-top: 60px; */
+}
   img{
         width: 900px;
+        height: 650px;
         padding:20px;
         border-radius:30px;
       }
