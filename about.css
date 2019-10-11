@@ -74,9 +74,12 @@
   {
     padding: 30px;
   }
-
+.first img{
+  width: 1000px;
+}
   img{
         width: 900px;
+        height: 650px;
         padding:20px;
         border-radius:30px;
       }
